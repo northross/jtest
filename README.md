@@ -4,4 +4,4 @@
 
 #### Here is a picture of my dog Rudy, since there is nothing else to see here.
 
-<img src="https://imgur.com/TAtnhLt.png" width="500" height="400">
+<img src="https://imgur.com/TAtnhLt.png" width="500" height="750">
