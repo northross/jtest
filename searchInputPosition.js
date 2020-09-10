@@ -12,4 +12,3 @@ const searchInsert = function (nums, target) {
   console.log(result);
 };
 
-searchInsert(nums, 4);
